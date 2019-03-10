@@ -6,6 +6,6 @@ This project is ment to be a starting point to play with Spring features without
 
 In theory, once you've installed gradle, all you have to do to get started is :
 ```bash
-git clone <insert-github-url-here>
+git clone https://github.com/Unitiser/gradle-spring-boot-boilerplate.git
 gradle bootRun
 ```
